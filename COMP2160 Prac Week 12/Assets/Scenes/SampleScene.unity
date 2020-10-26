@@ -229,7 +229,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   drive: 10
-  drag: 1
+  drag: 0.2
+  jumpImpulse: 10
 --- !u!54 &209180373
 Rigidbody:
   m_ObjectHideFlags: 0
